@@ -1,0 +1,35 @@
+.grid {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.grid div {
+    width: 40px;
+    width: 40px;
+    background-color: #A6CF98;
+}
+
+.grid > .snake {
+    background-color: #DB6B97;
+    
+}
+.grid > .apple {
+    background-color: #557C55;
+}
+
+.start {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: 4px solid #DB6B97;
+    padding: 10px;
+   
+}
+
+button :hover {
+    background-color: #DB6B97;
+    border: 4px solid #DB6B97;
+    padding: 10px
+}
