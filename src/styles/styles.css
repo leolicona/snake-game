@@ -28,7 +28,11 @@
    
 }
 
-.start :hover {
+.start.onclick {
+    border: 4px solid #557C55;
+}
+
+button .start :hover {
     background-color: #DB6B97;
     border: 4px solid #DB6B97;
     padding: 10px
