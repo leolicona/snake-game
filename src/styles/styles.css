@@ -28,7 +28,7 @@
    
 }
 
-button :hover {
+.start :hover {
     background-color: #DB6B97;
     border: 4px solid #DB6B97;
     padding: 10px
